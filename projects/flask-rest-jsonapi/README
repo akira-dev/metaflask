@@ -1,0 +1,4 @@
+Flask-Rest-JSONAPI
+
+Flask extension to create web api according to jsonapi specification with
+Flask, Marshmallow and data provider of your choice (SQLAlchemy, MongoDB, ...)

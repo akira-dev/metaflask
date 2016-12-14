@@ -1,0 +1,8 @@
+Name: Flask-Rest-JSONAPI
+Website: https://github.com/miLibris/flask-rest-jsonapi
+Github: miLibris/flask-rest-jsonapi
+Bugtracker: https://github.com/miLibris/flask-rest-jsonapi/issues
+Documentation: http://flask-rest-jsonapi.readthedocs.io/en/latest/
+PyPI: Flask-Rest-JSONAPI
+License: MIT
+Status: active
